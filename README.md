@@ -5,7 +5,7 @@
 **نسخه فعلی:** <kbd>Indev 128</kbd> • عمومی شد! 🎉
 
 <img src="https://img.shields.io/badge/status-public-brightgreen.svg"/>
-<img src="[[https://img.shields.io/github/stars/IBladeShadow/BladeOfCurse](https://github.com/IBladeShadow/Shadow-Survival)?style=social](https://github.com/IBladeShadow/Shadow-Survival)"/>
+<img src="https://img.shields.io/github/stars/IBladeShadow/BladeOfCurse?style=social"/>
 
 [دانلود Indev 128 (تک‌فایل)](https://modernshadow.ir/download) • [وب‌سایت](https://modernshadow.ir)
 
@@ -28,6 +28,6 @@
 از یه پروژه مرده تا یه بازی زنده  
 ساخته شده با عشق در ایران 🇮🇷
 
-<img src="[https://github.com/IBladeShadow/BladeOfCurse/blob/main/.github/logo.png?raw=true](https://avatars.githubusercontent.com/u/228779434?v=4)" width="430"/>
+<img src="https://github.com/IBladeShadow/BladeOfCurse/blob/main/.github/logo.png?raw=true" width="140"/>
 
 </div>
