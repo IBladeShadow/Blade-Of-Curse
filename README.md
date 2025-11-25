@@ -28,6 +28,6 @@
 از یه پروژه مرده تا یه بازی زنده  
 ساخته شده با عشق در ایران 🇮🇷
 
-<img src="[https://github.com/IBladeShadow/BladeOfCurse/blob/main/.github/logo.png?raw=true](https://avatars.githubusercontent.com/u/228779434?v=4)" width="140"/>
+<img src="[https://github.com/IBladeShadow/BladeOfCurse/blob/main/.github/logo.png?raw=true](https://avatars.githubusercontent.com/u/228779434?v=4)" width="430"/>
 
 </div>
