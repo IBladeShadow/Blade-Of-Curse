@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/status-public-brightgreen.svg"/>
 <img src="https://img.shields.io/github/stars/IBladeShadow/Blade-Of-Curse?style=social"/>
 
-[دانلود Indev 128 (تک‌فایل)]((https://github.com/IBladeShadow/Blade-Of-Curse/realse)) • [وب‌سایت](https://modernshadow.ir)
+[دانلود Indev 128 ](https://github.com/IBladeShadow/Blade-Of-Curse/realse) • [وب‌سایت](https://modernshadow.ir)
 
 </div>
 
