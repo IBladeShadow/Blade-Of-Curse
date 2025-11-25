@@ -5,7 +5,7 @@
 **نسخه فعلی:** <kbd>Indev 128</kbd> • عمومی شد! 🎉
 
 <img src="https://img.shields.io/badge/status-public-brightgreen.svg"/>
-Yor Likes : <img src="https://img.shields.io/github/stars/IBladeShadow/Blade-Of-Curse?style=social"/>
+<img src="https://img.shields.io/github/stars/IBladeShadow/Blade-Of-Curse?style=social"/>
 
 [دانلود Indev 128 (تک‌فایل)](https://modernshadow.ir/download) • [وب‌سایت](https://modernshadow.ir)
 
