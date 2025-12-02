@@ -2,7 +2,7 @@
 
 # Blade Of Curse
 
-**Current version:** <kbd>Indev 128</kbd> • Public! 🎉
+**Current version:** <kbd>Indev 458</kbd> • Public! 🎉
 
 <img src="https://img.shields.io/badge/status-public-brightgreen.svg"/>
 <img src="https://img.shields.io/github/stars/IBladeShadow/Blade-Of-Curse?style=social"/>
