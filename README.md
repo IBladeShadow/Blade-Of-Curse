@@ -17,6 +17,7 @@
 
 | Version | Description |
 |------------|-------------------------------------------------|
+| `Indev 458` | Adding multiplayer to the game, entering mansions |
 | `Indev 128` | Public release of the game for everyone! First downloadable version |
 | `Indev 2` | Major bug fixes and performance optimizations |
 | `Indev 1` | Full Project Port from C++ to C# — Starting Over |
